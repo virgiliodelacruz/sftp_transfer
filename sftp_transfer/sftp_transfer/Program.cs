@@ -396,10 +396,12 @@ namespace sftp_transfer
             if (segundo.Length == 1)
                 segundo = "0" + segundo;           
            filebit = new System.IO.StreamWriter(rutacarpetaasubir + "bitacora-" + dia + mes + anio + "-" + hora + minuto + segundo + ".txt");
+           filebit.WriteLine("----INICIO bitacora-" + dia + mes + anio + "-" + hora + minuto + segundo+"-------");
             Proceso("Student");
             Proceso("Applicant");
             Proceso("Enrollment");
             Proceso("Section");
+            filebit.WriteLine("----FIN bitacora-" + dia + mes + anio + "-" + hora + minuto + segundo + "-------");
             filebit.Close();
         }
     }
