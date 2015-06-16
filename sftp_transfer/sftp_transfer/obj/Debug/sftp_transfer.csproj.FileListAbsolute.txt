@@ -1,0 +1,24 @@
+c:\users\virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.exe
+c:\users\virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.pdb
+c:\users\virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\Renci.SshNet.dll
+c:\users\virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.exe
+c:\users\virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.pdb
+C:\Users\Virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.exe.config
+C:\Users\Virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.exe.manifest
+C:\Users\Virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.application
+C:\Users\Virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.exe.manifest
+C:\Users\Virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.application
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Virgilio\documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.csprojResolveAssemblyReference.cache
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.exe.config
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.exe
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.pdb
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.exe.manifest
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.application
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.exe
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\sftp_transfer.pdb
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\bin\Debug\Renci.SshNet.dll
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.csprojResolveAssemblyReference.cache
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.exe.manifest
+C:\Users\Virgilio\Documents\GitHub\sftp_transfer\sftp_transfer\sftp_transfer\obj\Debug\sftp_transfer.application

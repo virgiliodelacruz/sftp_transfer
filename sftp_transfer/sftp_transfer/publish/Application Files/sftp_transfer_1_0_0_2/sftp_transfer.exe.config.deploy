@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+  </configSections>
+
+  <appSettings>
+
+    <add key="rutaarchivoasubir" value="C:\subirftp\pruebasubir3.txt" />
+    <add key="rutacarpetaasubir" value="C:\subirftp\" />
+    <add key="rutallaveprivada" value="C:\Users\Virgilio\Documents\visual studio 2013\Projects\sftp_transfer\sftp_transfer\ANAHUAC_PRIV_openssh.PPK" />
+    <add key="rutaasubir" value="/" />
+    <add key="hostnamesftp" value="ftp.academicpartnerships.com" />
+    <add key="portsftp" value="22" />
+    <add key="usernamesftp" value="REDUA" />
+  </appSettings>
+
+</configuration>

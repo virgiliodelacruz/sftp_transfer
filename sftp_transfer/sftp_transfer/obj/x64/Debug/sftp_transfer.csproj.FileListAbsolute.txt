@@ -1,0 +1,11 @@
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\sftp_transfer.exe.config
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\sftp_transfer.exe.manifest
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\sftp_transfer.application
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\sftp_transfer.exe
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\sftp_transfer.pdb
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\bin\x64\Debug\Renci.SshNet.dll
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\obj\x64\Debug\sftp_transfer.exe.manifest
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\obj\x64\Debug\sftp_transfer.application
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\obj\x64\Debug\sftp_transfer.exe
+C:\Users\Virgilio\Documents\Visual Studio 2013\Projects\sftp_transfer\sftp_transfer\obj\x64\Debug\sftp_transfer.pdb
